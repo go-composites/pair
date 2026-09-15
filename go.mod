@@ -3,7 +3,7 @@ module github.com/go-composites/pair
 go 1.26.4
 
 require (
-	github.com/go-composites/array v0.0.0-20260912233747-b75b05b49410
+	github.com/go-composites/array v0.0.0-20260915000710-d4141b5e607e
 	github.com/onsi/ginkgo/v2 v2.32.2
 	github.com/onsi/gomega v1.43.0
 )
@@ -12,7 +12,7 @@ require (
 	github.com/Masterminds/semver/v3 v3.4.0 // indirect
 	github.com/go-composites/error v0.0.0-20260910233857-13fdb6fa03c6 // indirect
 	github.com/go-composites/null v0.0.0-20260903220223-c1d743488d23 // indirect
-	github.com/go-composites/result v0.0.0-20260904101956-f4b09f308e35 // indirect
+	github.com/go-composites/result v0.0.0-20260912234301-de30d2f90af6 // indirect
 	github.com/go-logr/logr v1.4.3 // indirect
 	github.com/go-task/slim-sprig/v3 v3.0.0 // indirect
 	github.com/google/go-cmp v0.7.0 // indirect
