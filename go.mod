@@ -5,7 +5,7 @@ go 1.26.4
 require (
 	github.com/go-composites/array v0.0.0-20260922235702-4fc43dd1da2c
 	github.com/onsi/ginkgo/v2 v2.33.0
-	github.com/onsi/gomega v1.43.1
+	github.com/onsi/gomega v1.44.0
 )
 
 require (
