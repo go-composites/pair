@@ -3,14 +3,14 @@ module github.com/go-composites/pair
 go 1.26.4
 
 require (
-	github.com/go-composites/array v0.0.0-20260922235702-4fc43dd1da2c
+	github.com/go-composites/array v0.0.0-20260927173101-add77aa5108b
 	github.com/onsi/ginkgo/v2 v2.33.0
 	github.com/onsi/gomega v1.44.0
 )
 
 require (
 	github.com/Masterminds/semver/v3 v3.4.0 // indirect
-	github.com/go-composites/error v0.0.0-20260918235114-2990a9d33571 // indirect
+	github.com/go-composites/error v0.0.0-20260926002113-8ebf8341ff74 // indirect
 	github.com/go-composites/null v0.0.0-20260903220223-c1d743488d23 // indirect
 	github.com/go-composites/result v0.0.0-20260920235032-53e0a08ef62b // indirect
 	github.com/go-logr/logr v1.4.3 // indirect
