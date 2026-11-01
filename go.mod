@@ -3,7 +3,7 @@ module github.com/go-composites/pair
 go 1.27.1
 
 require (
-	github.com/go-composites/array v0.0.0-20261015235938-f7161fa2d065
+	github.com/go-composites/array v0.0.0-20261031224742-4b57484160ac
 	github.com/onsi/ginkgo/v2 v2.33.1
 	github.com/onsi/gomega v1.44.0
 )
